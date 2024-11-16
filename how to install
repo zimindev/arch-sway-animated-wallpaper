@@ -1,0 +1,3 @@
+1) Install AUR
+2) Install AUR mpvpaper
+3) Add to Sway config in autostart command: exec mpvpaper --video-mode=loop eDP-1 /home/user/video.webm
